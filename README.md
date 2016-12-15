@@ -8,8 +8,9 @@ Education Schools is an application built using PHP & MySQL is used for the scho
 * Management Data Guru
 * Management Website (profile, contact us, bukutamu) 
 * Management User<br /><br />
-**Login Admin**
+**Login Admin**<br />
 user : ***admin***<br />
-pass : ***admin***
+pass : ***admin***<br />
+
 ##Copyright
 **Copyright © 2016 Rahmat Sabilludin. All right reserved. **
