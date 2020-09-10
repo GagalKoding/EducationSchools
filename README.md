@@ -11,6 +11,3 @@ Education Schools is an application built using PHP & MySQL is used for the scho
 **Login Admin**<br />
 user : ***admin***<br />
 pass : ***admin***<br />
-
-##Copyright
-**Copyright © 2016 Rahmat Sabilludin. All right reserved. **
